@@ -1,5 +1,16 @@
-html {
+/* html {
 background-color: dimgray;
+} */
 
-
+.container {
+  display: flex;
+  flex-basis: 50%;
 }
+
+#article1 {
+  border: firebrick 1px solid;
+}
+#article2 {
+  border: green 1px solid;
+}
+
